@@ -1,0 +1,1 @@
+<p>Yeu cau ban da thay doi mat khau moi thanh cong vui long click vao link sau de dang nhap <a href="<?php echo base_url("?mod=users&action=login") ?>">DANG NHAP</a> </p>
